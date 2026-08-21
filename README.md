@@ -9,7 +9,8 @@ organized by category with one source file per problem.
 |---|---:|
 | [Introductory Problems](./Introductory%20Problems) | 11 |
 | [Sorting and Searching](./Sorting%20and%20Searching) | 34 |
-| **Total** | **45** |
+| [Dynamic Programming](./Dynamic%20Programming) | 22 |
+| **Total** | **67** |
 
 File names follow the corresponding CSES problem titles, using underscores in
 place of spaces.
